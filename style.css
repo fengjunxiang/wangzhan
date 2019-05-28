@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+/*li{
+	float: left;
+list-style: none;
+	width: 50px
+  
+
+}*/
+h1{
+	margin-left: 50px;
+	
+}
+body{
+	margin-left: 250px;
+	}
+	
+
+.daohang{
+font-size: 24px;
+	color: aquamarine;
+}
+#nav{
+		float: left;
+list-style: none;
+	width: 80px;
+	background: #000000;
+	
+	font-size: 13px;	
+}
+A{
+	color:#FBFBFB;
+}
